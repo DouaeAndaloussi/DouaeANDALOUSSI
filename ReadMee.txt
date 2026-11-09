@@ -1,5 +1,5 @@
 
-# 👋 About Me
+👋 About Me
 
 🌍 Hello! I'm Douae, a Social Listening & Digital Intelligence Specialist passionate about understanding digital conversations, consumer perceptions and online communities.
 
@@ -9,7 +9,7 @@
 
 🔎 My work combines social listening, media intelligence, consumer insights and online reputation monitoring, from research design and Boolean queries to analysis and strategic reporting.
 
-## 🎯 Areas of Expertise
+🎯 Areas of Expertise
 
 - Social Listening & Media Intelligence
 - Consumer & Audience Insights
@@ -20,19 +20,17 @@
 - Multilingual & Cross-Cultural Research
 - Boolean Search & Monitoring Frameworks
 
-## 🌐 Languages
+🌐 Languages
 
 - 🇬🇧 English
 - 🇫🇷 French
-- 🇲🇦 Arabic (Regional Dialects)
+- Arabic (Different Dialects)
 
-## 🛠️ Tools & Platforms
+🛠️ Tools & Platforms
 
-Talkwalker • Brandwatch • Meltwater • Sprinklr • Emplifi • Carma • Digimind • Mention • Synthesio
+Talkwalker • Brandwatch • Meltwater • Sprinklr • Emplifi • Carma Tools • Digimind • Mention • Synthesio...
 
-## 📚 Currently Learning
-
-Expanding my technical capabilities in:
+📚 Expanding my technical capabilities in:
 
 - 🐍 Python for Data Analysis
 - 🗄️ SQL for Data Management
@@ -40,7 +38,7 @@ Expanding my technical capabilities in:
 - 🤖 Natural Language Processing (NLP)
 - 🔍 AI-powered Social Intelligence
 
-## 🔬 Research Interests
+🔬 Research Interests
 
 - Digital Consumer Behavior
 - Intercultural Marketing
@@ -48,14 +46,12 @@ Expanding my technical capabilities in:
 - Digital Consumer Experience
 - Multilingual Digital Communities
 
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 Interested in Social Listening, Digital Intelligence, Consumer Insights or cross-cultural research?
 
 Feel free to connect!
 
-- 💼 LinkedIn www.linkedin.com/in/douae-andaloussi
+💼 www.linkedin.com/in/douae-andaloussi
 
----
-
-⭐ *Turning digital conversations into meaningful intelligence.*
+⭐ Turning digital conversations into meaningful intelligence.
